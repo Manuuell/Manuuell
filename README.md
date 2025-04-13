@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e477qrjyp0asqh2ibkwm6v4budp0o47wtfd2ahl2mnj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 230px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e477qrjyp0asqh2ibkwm6v4budp0o47wtfd2ahl2mnj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 200px></picture>
 
 - :school: I am a `Student` at [Universidad Tecnologica De Bolivar](https://www.utb.edu.co)
 - :technologist: **Currently working on** `Cibersecurity` **&** `Software Development`
